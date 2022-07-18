@@ -1,1 +1,4 @@
-desc
+This Is a note Keeper app.
+ we can perform CRUD operations in this app.
+we can create notes, delete them, update tehm and fetch from database.
+technologirs used: React.js, Node.js, Express.js, MySQL.
